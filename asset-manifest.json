@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/ToDo_List/static/css/main.e9567adf.chunk.css",
+    "main.js": "/ToDo_List/static/js/main.84ed4833.chunk.js",
+    "main.js.map": "/ToDo_List/static/js/main.84ed4833.chunk.js.map",
+    "runtime-main.js": "/ToDo_List/static/js/runtime-main.d6e0968c.js",
+    "runtime-main.js.map": "/ToDo_List/static/js/runtime-main.d6e0968c.js.map",
+    "static/js/2.8d35724b.chunk.js": "/ToDo_List/static/js/2.8d35724b.chunk.js",
+    "static/js/2.8d35724b.chunk.js.map": "/ToDo_List/static/js/2.8d35724b.chunk.js.map",
+    "index.html": "/ToDo_List/index.html",
+    "static/css/main.e9567adf.chunk.css.map": "/ToDo_List/static/css/main.e9567adf.chunk.css.map",
+    "static/js/2.8d35724b.chunk.js.LICENSE.txt": "/ToDo_List/static/js/2.8d35724b.chunk.js.LICENSE.txt",
+    "static/media/sangamlogo.cc18bbbd.png": "/ToDo_List/static/media/sangamlogo.cc18bbbd.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d6e0968c.js",
+    "static/js/2.8d35724b.chunk.js",
+    "static/css/main.e9567adf.chunk.css",
+    "static/js/main.84ed4833.chunk.js"
+  ]
+}
